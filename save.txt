@@ -1,0 +1,8 @@
+Guesses: 
+5
+Correct Guessed: 
+A
+Letters Used: 
+A,X
+word: 
+BAHADAS
